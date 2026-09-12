@@ -3,7 +3,7 @@
 </div>
 
 Opa,
-Sou o Guilherme mais conhecido como programador 4i20 🍁
+Sou o Guilherme mais conhecido como "programador 4i20" 🍁
 <br>
 Tenho 21 anos, moro em São Paulo - Brasil, sou formado em Análise e Desenvolvimento de Sistemas pela [Faculdade Anhanguera](https://www.anhanguera.com/) e sou apaixonado por programação e tecnologia! Estou começando no universo da programação e foco no desenvolvimento front-end & Engenharia de Software de Telecomunicações. Confira também meu [LinkedIn](https://www.linkedin.com/in/guilherme-oliveira-2a8a44259/).
 ### > Linguagens de programação que eu mais utilizo;
